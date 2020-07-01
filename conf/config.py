@@ -36,11 +36,11 @@ SERVER_ID = "973e4343272b4e70842632f79e9c0efe"
 SECRET_KEY_NAME = "private_20200630185120.key"
 
 # LOCAL ADDRESS
-LOCAL_ADDRESS = "https://[Heroku app name].herokuapp.com/"
+LOCAL_ADDRESS = "https://shin-kintai.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-xxx-xxx-xxx-xxx.compute-1.amazonaws.com"
-DB_NAME = "x3mdxxxxsg5nx"
-DB_USER = "xsozxxxxvksikx"
+DB_HOST = "ec2-34-192-173-173.compute-1.amazonaws.com"
+DB_NAME = "d4bje0bsgrt7pv"
+DB_USER = "lmldmouwyxhsyf"
 DB_PORT = "5432"
-DB_PASSWORD = "xxxxxb3ff80c85d331da880f4b3e0xxxxxxxxxxxd552d64d128317653ce0xxxx"
+DB_PASSWORD = "7f16772281724c34c13f0c9ff9dc6b6afb9fe4b00265a2ae225d077987a813bd"
